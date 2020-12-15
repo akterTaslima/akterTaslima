@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **akterTaslima/akterTaslima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am Taslima Akter, a fifth year computer science Ph.D. student at Indiana University. My current research interest lies in the field of usable privacy and security in the context of assistive technologies; in particular I am excited about understanding and designing systems that can address privacy challenges faced by people with visual impairments while using existing and emerging assistive technologies.
 
-## Things going on
+### Things going on
 
 - Designing a privacy-enhanced assistive system for people with visual impairments.
 - I’m currently looking for internship opportunities for summer 2021!
