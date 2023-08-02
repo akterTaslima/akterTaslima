@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Taslima Akter, a postdoctoral researcher at University of California Irvine. I have completed my PhD in computer science from Indiana University Bloomington. My research interest lies in the field of usable privacy and security in the context of assistive technologies; in particular I am excited about understanding and designing systems that can address privacy challenges faced by people with visual impairments while using existing and emerging assistive technologies.
+I am Taslima Akter, a postdoctoral researcher at the University of California Irvine. I have completed my Ph.D. in computer science from Indiana University Bloomington. My research interest lies in the field of usable privacy and security in the context of assistive technologies; in particular, I am excited about understanding and designing systems that can address privacy challenges faced by people with visual impairments while using existing and emerging assistive technologies.
 
 ### Things going on
 
 - Designing a privacy-enhanced assistive system for people with visual impairments.
-- I’m currently looking for internship opportunities for summer 2021!
+- I’m currently looking for full-time job opportunities in industry research!
